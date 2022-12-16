@@ -1,4 +1,4 @@
-We'll be making a simple Hello World program on the playground. All it will do is a log a message in the transaction logs lol
+We'll be making a simple Hello World program on the playground. All it will do is log a message in the transaction logs lol
  
 #### 📦 The Rust Module System
 Just like with our clients, we'll use a bunch of libraries so we don't have to write tons of boilerplate. Rust organizes code using what is collectively referred to as the “module system”. This is a lot like modules in Node.js or a namespace in C++.
